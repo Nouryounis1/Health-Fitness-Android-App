@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770115016649",
+    "project_id": "health-manager-23b35",
+    "storage_bucket": "health-manager-23b35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770115016649:android:9558d9e1ab0975d98d7a18",
+        "android_client_info": {
+          "package_name": "com.crazytrends.nymanagerhelath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770115016649-08gooma3a8o7un6dbcfskm47k9de7mfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCILVZ-miOX41wNhgALvPY1dmT_LMxblOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770115016649-08gooma3a8o7un6dbcfskm47k9de7mfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
